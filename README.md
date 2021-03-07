@@ -38,7 +38,7 @@ USB stick / Flash Drive guide:
 3. Note: Be careful with the steps below and backup your data if you're not sure about what you are doing.
 4. For installing PrimeOS on your HDD/SSD/SDcard, first create a new partition for PrimeOS ( suggested minimum size is 16GB ).
 4. Turn off secure boot of your device and then boot up the PrimeOS USB by pressing esc or F12, depending on your bios menu key and selecting the PrimeOS USB to boot from.
-6. Select the â€˜Install PrimeOS option from GRUB menu.
+6. Select the 'Install PrimeOS' option from GRUB menu.
 7. The installer will load, and you will have an option to choose which partition you created earlier. Choose it, and select Ext4 for formatting the drive.
 8. When it asks if you want to install System as R/W (Read/Write), select YES, otherwise the OTA functionality will break.
 9. When it asks if you want to install Grub, select YES.
