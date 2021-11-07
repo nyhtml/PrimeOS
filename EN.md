@@ -2,6 +2,9 @@
 
 ## Table of Contents
 * [Feature Highlights](#feature-highlights)
+  * Desktop Experience
+  * Android Gaming
+  * Others
 * [Installation Process Through Installer (UEFI 64-bit only)](#installation-process-through-installer-uefi-64-bit-only)
 * [Manual Installation Process](#manual-installation-process)
 
