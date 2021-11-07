@@ -1,6 +1,11 @@
 # PrimeOS
 A complete desktop experience with access to millions of Android apps. It is designed to bring you the best of both worlds - a complete fusion of Android and PC.
 
+## Table of Contents
+* [Feature Highlights](#feature-highlights)
+* [Installation Process Through Installer (UEFI 64-bit only)](#installation-process-through-installer-uefi-64-bit-only)
+* [Manual Installation Process](#manual-installation-process)
+
 ## Feature Highlights
 Desktop Experience
 * Multi-window support with maximize, minimize, close, resize etc.
