@@ -3,5 +3,5 @@ A complete desktop experience with access to millions of Android apps. It is des
 
 ## Languages
 * Chinese
-* [English](https://github.com/nyhtml/PrimeOS/blob/main/EN.md)
+* [English](README-en.md)
 * Hindi
