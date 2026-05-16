@@ -5,6 +5,7 @@
   * Desktop Experience
   * Android Gaming
   * Others
+* [Installation Targets](#installation-targets)
 * [Installation Process Through Installer (UEFI 64-bit only)](#installation-process-through-installer-uefi-64-bit-only)
 * [Manual Installation Process](#manual-installation-process)
 
@@ -27,6 +28,14 @@ Others
 * Feedback app is available for you guys to share your thoughts.
 * Up-streamed kernel to google LTS linux 4.9.x.
   
+## Installation Targets
+* Hardware
+  * Mac
+  * PC
+* QEMU
+* [VirtualBox](Documentation/VirtualBox-en.md)
+* VMware
+
 ## Installation Process Through Installer (UEFI 64-bit only)
 PrimeOS installer has been launched for installing PrimeOS in 64 bit UEFI systems in dual-boot mode alongside Windows.
 
