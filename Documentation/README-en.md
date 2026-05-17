@@ -33,7 +33,7 @@ Others
   * Mac
   * PC
 * QEMU
-* [VirtualBox](Documentation/VirtualBox-en.md)
+* [VirtualBox](VirtualBox-en.md)
 * VMware
 
 ## Installation Process Through Installer (UEFI 64-bit only)
