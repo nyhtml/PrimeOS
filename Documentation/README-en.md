@@ -32,7 +32,7 @@ Others
 * Hardware
   * Mac
   * PC
-  * Raspberry Pi
+  * [Raspberry Pi](Raspberry%20Pi-en.md)
 * QEMU
 * [VirtualBox](VirtualBox-en.md)
 * VMware
