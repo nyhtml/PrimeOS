@@ -49,7 +49,7 @@ Download the installer and follow the steps below for installing PrimeOS
 * After installation, you will have the boot menu for both PrimeOS and Windows.
 
 ## Manual Installation Process
-USB stick / Flash Drive guide:
+USB Stick/Flash Drive Guide:
 1. For this method, you need Etcher / Rufus, the PrimeOS iso file. We recommend using a decent-speed USB drive (8GB or larger).
 2. For flashing PrimeOS to the USB drive, plug in your USB drive and launch Etcher / Rufus. Now select the PrimeOS iso file, and create the bootable USB.
 3. Note: Be careful with the steps below and back up your data if you're not sure about what you are doing.
