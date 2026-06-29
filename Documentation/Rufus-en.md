@@ -26,11 +26,11 @@ This section documents the **Rufus 4.x** settings used to create a bootable USB 
 
 ---
 
-## 📦 ISO Extraction Status (Example)
+## 📦 ISO Extraction Status
 - **Operation:** Copying ISO files  
-- **Progress:** ~7%  
+- **Progress:** Ready  
 - **Current File:** `system.sfs` (1.6 GB)  
-- **Elapsed Time:** 00:05  
+- **Elapsed Time:** 03:45  
 
 ---
 
