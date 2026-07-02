@@ -6,6 +6,7 @@
   * Android Gaming
   * Others
 * [Installation Targets](#installation-targets)
+* [Supported Platforms](#supported-platforms)
 * [Installation Process Through Installer (UEFI 64-bit only)](#installation-process-through-installer-uefi-64-bit-only)
 * [Manual Installation Process](#manual-installation-process)
 
@@ -29,6 +30,15 @@ Others
 * Upstreamed kernel to Google LTS Linux 4.9. x.
   
 ## Installation Targets
+* Hardware
+  * Mac
+  * PC
+  * [Raspberry Pi](Raspberry%20Pi-en.md)
+* QEMU
+* [VirtualBox](VirtualBox-en.md)
+* VMware
+
+## Supported Platforms
 * Hardware
   * Mac
   * PC
