@@ -32,6 +32,7 @@ Others
 * Hardware
   * Mac
   * PC
+  * PrimeBook
   * [Raspberry Pi](Raspberry%20Pi-en.md)
 * QEMU
 * [VirtualBox](VirtualBox-en.md)
